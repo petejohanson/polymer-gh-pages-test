@@ -1,0 +1,37 @@
+{
+  "name": "paper-toast",
+  "version": "0.9.3",
+  "description": "A material design notification toast",
+  "private": true,
+  "authors": [
+    "The Polymer Authors"
+  ],
+  "keywords": [
+    "web-components",
+    "polymer",
+    "toast",
+    "notification"
+  ],
+  "main": "paper-toast.html",
+  "dependencies": {
+    "paper-styles": "PolymerElements/paper-styles#^0.9.0",
+    "polymer": "Polymer/polymer#^0.9.0",
+    "iron-a11y-announcer": "polymerelements/iron-a11y-announcer#^0.9.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^0.9.0",
+    "paper-button": "polymerelements/paper-button#^0.9.0",
+    "web-component-tester": "*",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/PolymerElements/paper-toast",
+  "_release": "0.9.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.9.3",
+    "commit": "05900ad964ef32488b88a0dfcd2bb48f800e5c1d"
+  },
+  "_source": "git://github.com/PolymerElements/paper-toast.git",
+  "_target": "^0.9.0",
+  "_originalSource": "PolymerElements/paper-toast"
+}

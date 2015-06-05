@@ -1,0 +1,26 @@
+{
+  "name": "polymer-talk",
+  "version": "0.0.1",
+  "authors": [
+    "Peter Johanson <peter@peterjohanson.com>"
+  ],
+  "description": "Sample Polymer project for NERDSummit session",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.9.0",
+    "paper-button": "PolymerElements/paper-button#~0.9.3"
+  }
+}
